@@ -1,6 +1,8 @@
-# Sanic Dockerfile
+# Sanic Base App Dockerfile
 
-This repository is for the Sanic Docker image.
+This image is meant to be a starting point for you to build your own [Sanic](https://github.com/huge-success/sanic) application running on Docker. It is a "base" app in that it makes no decisions for you and is completely unopinionated.
+
+Are you looking for a **best practices** solution with some guidance on how to setup your Sanic App? We will be releasing a second image in the future with some more guidance.
 
 ## What does this image do?
 
@@ -26,7 +28,3 @@ Build it
 Run it as you would any other container
 
     docker run my-sanic-server
-
----
-
-Are you looking for a **best practices** solution with some guidance on how to setup your Sanic App? We will be releasing a second image in the future with some more guidance.
