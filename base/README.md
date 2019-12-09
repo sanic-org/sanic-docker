@@ -19,7 +19,7 @@ Setup your own Dockerfile
 
     EXPOSE 8888
 
-    ENTRYPOINT ["python3" "/srv/my-sanic-server.py"]
+    ENTRYPOINT ["python3", "/srv/my-sanic-server.py"]
 
 Build it
 
