@@ -6,7 +6,7 @@ Are you looking for a **best practices** solution with some guidance on how to s
 
 ## What does this image do?
 
-It preinstalls the latest [**Sanic LTS**](https://sanic.readthedocs.io/en/18.12.0/) version on top of a **Python 3.7**. The container runs Alpine Linux.
+It preinstalls the latest [**Sanic LTS**](https://sanic.readthedocs.io/en/19.12.2/) version on top of a **Python 3.7**. The container runs Alpine Linux.
 
 ## How do I use this?
 
